@@ -1,7 +1,5 @@
 import Head from "next/head";
 
-import JasonSVG from "../components/JasonSvg";
-
 import { Box } from "@chakra-ui/react";
 
 import useSound from "use-sound";
